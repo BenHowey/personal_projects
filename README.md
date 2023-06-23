@@ -1,2 +1,2 @@
 # private_projects
-test repo
+personal projects
